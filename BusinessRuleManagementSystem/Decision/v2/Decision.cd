@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessRuleManagementSystem.Decision">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAABAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.TestStatement&lt;T&gt;">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.ActionStatement&lt;T&gt;">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActionStatement.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ResultValue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.TestOperandSuperior">
+    <Position X="7" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Operand\TestOperandInt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.TestOperandEquals">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Operand\TestOperandString.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.FuncResultValue&lt;T&gt;">
+    <Position X="10.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ResultValue\FuncResultValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.StaticResultValue&lt;T&gt;">
+    <Position X="9" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>ResultValue\StaticResultValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.StaticTestValue&lt;T&gt;">
+    <Position X="3.25" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TestValue\StaticTestValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.FuncTestValue&lt;T&gt;">
+    <Position X="1.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestValue\FuncTestValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.Decision&lt;T&gt;">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAQAABAAABAACAAAAAgAAABAAAAAAAA=</HashCode>
+      <FileName>Decision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessRuleManagementSystem.DecisionCollection&lt;T&gt;">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecisionCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BusinessRuleManagementSystem.ValidError">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValidError.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="BusinessRuleManagementSystem.IResultValue&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ResultValue\ResultValue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessRuleManagementSystem.ITestOperand" Collapsed="true">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Operand\TestOperand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessRuleManagementSystem.ITestValue" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestValue\TestValue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessRuleManagementSystem.IValid">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IValid.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessRuleManagementSystem.IVerbalization">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVerbalization.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

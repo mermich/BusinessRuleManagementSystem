@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="As Doris, the developer, I can create a unit test from a context menu so that I can quickly get to writing test code, not setting up projects and files.&#xD;&#xA;As Doris, the developer, I can customize the unit test generation from a dialog so my generated tests better match my naming schemes.&#xD;&#xA;As Doris, the developer, I can generate unit test stubs against multiple frameworks so that I can utilize any framework I'd like.&#xD;&#xA;As Doris, the developer, I can generate unit test code mthods for null parametersand for predeterminded parameters.&#xD;&#xA;As Doris, the developer, I can generate unit test code for every code branch (if/else/switch).&#xD;&#xA;&#xD;&#xA;">
+    <Position X="6.923" Y="6.856" Height="2.375" Width="7.867" />
+  </Comment>
+  <Class Name="TestsCreator.MethodGeneration.WorkingMethod">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAACAAAAAACAAAAAAAAAAACAAQABAAAAAE=</HashCode>
+      <FileName>MethodGeneration\WorkingMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.MethodGeneration.WorkingParameterInfo">
+    <Position X="10" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAIAAAQAAAAAAAA=</HashCode>
+      <FileName>MethodGeneration\WorkingParameterInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.MethodGeneration.GeneratedTestMethod">
+    <Position X="7" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>MethodGeneration\GeneratedTestMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.MethodGeneration.MethodParam.MethodParameter">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAgAAAAAARAAAIAAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>MethodGeneration\MethodParam\MethodParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.Configuration.ProjectGenerationConfiguration">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Configuration\ProjectGenerationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.Configuration.ClassGenerationConfiguration">
+    <Position X="17" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\ClassGenerationConfiguration.cs</FileName>
+      <NewMemberFileName>Configuration\ClassGenerationconfiguration.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.Configuration.MethodGenerationConfiguration">
+    <Position X="17" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Configuration\MethodGenerationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.Configuration.GenerationConfiguration">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAgAAAQAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\GenerationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestsCreator.MethodGeneration.MethodParam.StringParameter" Collapsed="true">
+    <Position X="15.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MethodGeneration\MethodParam\StringParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\Brms\bin\Debug\Brms.dll
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\Brms\bin\Debug\Brms.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\Brms\obj\Debug\Brms.dll
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\Brms\obj\Debug\Brms.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\Brms\obj\Debug\Brms.csprojResolveAssemblyReference.cache

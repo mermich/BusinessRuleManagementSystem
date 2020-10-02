@@ -1,0 +1,16 @@
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\bin\Debug\BusinessRuleManagementSystem.dll
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\bin\Debug\BusinessRuleManagementSystem.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\bin\Debug\BusinessRuleManagementSystem.pri
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\BusinessRuleManagementSystem.dll
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\BusinessRuleManagementSystem.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\priconfig.xml
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\priconfig.xml.intermediate
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\layout.resfiles
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\layout.resfiles.intermediate
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\resources.resfiles
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\resources.resfiles.intermediate
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\pri.resfiles
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\pri.resfiles.intermediate
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\qualifiers.txt
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\qualifiers.txt.intermediate
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\BusinessRuleManagementSystem\obj\Debug\MultipleQualifiersPerDimensionFound.txt

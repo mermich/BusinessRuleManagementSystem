@@ -1,0 +1,6 @@
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\bin\Debug\InstanceDependencyFinder.exe.config
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\bin\Debug\InstanceDependencyFinder.exe
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\bin\Debug\InstanceDependencyFinder.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\obj\Debug\InstanceDependencyFinder.exe
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\obj\Debug\InstanceDependencyFinder.pdb
+C:\Users\emermillod\Documents\Visual Studio 2013\Projects\BusinessRuleManagementSystem\InstanceDependencyFinder\obj\Debug\InstanceDependencyFinder.csprojResolveAssemblyReference.cache
